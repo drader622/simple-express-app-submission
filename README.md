@@ -1,5 +1,7 @@
 # SimpleWorx
 
+NOT ALL PAGES ARE FUNCTIONAL
+
 This CRUD app allows an employee submit a new work order request, which will update on any device that has the app open, and allow a different employee to respond to, close, or delete the request.
 
 Check it out! <a href="https://simpleworx-app.herokuapp.com/workOrders">simpleworx-app.herokuapp.com</a>
